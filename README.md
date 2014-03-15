@@ -10,6 +10,7 @@ There are to many languages in world unitl now. All most languages have solved c
 
 Every system is builded that must contains three parts. First, general language is base role in the system. it decide speed, performance, efficiency of system. Second, script language is a layer baseed on general language. Its goals are quickly doing work and running system. Third, domain specific language is a shape tool that can solve application problems, sush as communitaiton with experts, describing domain problems, etc. Yes, The three parts are so general that nobody consider they are important. No one want to use c++ to develop web application.
 
+```
 +++++++++++++++++
 ++      dsl    ++  => describe problem
 +++++++++++++++++
@@ -17,6 +18,8 @@ Every system is builded that must contains three parts. First, general language 
 +++++++++++++++++
 ++      gl     ++  => system base
 +++++++++++++++++
+
+```
 
 I want to integrate this three parts in one programmging language. And it must spport export to other languages, such as python, ruby, php, perl, javascript, jvm , .net and llvm.
 
