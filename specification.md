@@ -5,14 +5,22 @@ There are some features i think in this language.
 ## currying in everything
 
 ```
-; i use fn to create function
-; use _ 
+; use fn to create function
 
-fn foo(a,b)->(a,b){
+fn (impl:int) fiber:(a:int,b:int)=>(x:int,y:int) throw error{
+   defer{ }
+   require{ }
+   ensure{ }
+   guard{ }
+   doc{ }
+   test{ }
+   
    return a+b,a
 }
 
-f1 = foo(a,_) # fn f1(x)->(a,b) { return foo(a,x) }
+; use _ 
+
+f1 = foo(a,_) # fn f1(x)=>(a,b) { return foo(a,x) }
 f1(2) # call function
 
 ```
