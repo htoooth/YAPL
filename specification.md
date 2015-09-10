@@ -7,7 +7,7 @@ There are some features i think in this language.
 ```
 ; use fn to create function
 
-fn (impl:int) fiber:(a:int,b:int)=>(x:int,y:int) throw error{
+fn (impl:int) foo:(a:int,b:int)=>(x:int,y:int) throw error{
    defer{ }
    require{ }
    ensure{ }
