@@ -26,6 +26,11 @@ I want to integrate this three parts in one programmging language. And it must s
 Starting
 ========
 
+Language Specification
+======================
+[specification](./specification.md)
+
+
 ToDo List
 =========
 
