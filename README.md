@@ -1,7 +1,7 @@
 YAPL
 =====
 
-YAPL ( Yet Another Programming Language ) is new programming language. It wants to solve graps in gl (general language) , sl (script language) and dsl (domain specific language).
+YAPL ( Yet Another Programming Language ) is the programming language for quick and easy mixed programming paradigms of OOP(Object-Oriented Programming) and FP(Functional Programming). It want to solve graps in gl (general language) , sl (script language) and dsl (domain specific language).
 
 Why
 ====
