@@ -6,9 +6,9 @@ YAPL ( Yet Another Programming Language ) is the programming language for quick 
 Why
 ====
 
-There are too many languages in the world unitl now. All most languages have solved communitation between compute and people. But few languages solve communitation between people and people especially program and people. I think Ruby do best work in this aspect. No language conside the communitation between developer and plain people. So DSL is important.
+There are too many languages in the world unitl now. All most languages have solved communication between computer and program. But few languages solve communication between people and people especially program and people. I think that Ruby do best work in this aspect. No language conside the communication between developers and domain expert. So DSL is important.
 
-Every system is builded that must contains three parts. First, general language is base role in the system. it decide speed, performance, efficiency of system. Second, script language is a layer baseed on general language. Its goals are quickly doing work and running system. Third, domain specific language is a shape tool that can solve application problems, sush as communitaiton with experts, describing domain problems, etc. Yes, The three parts are so general that nobody consider they are important. No one want to use c++ to develop web application.
+Every software system builded must contains three parts: First, general language is base role in the system. it decides speed, performance, efficiency of system. Second, script language is a layer baseed on general language. Its goals are quickly doing work and running system. Third, domain specific language is a shape tool that can solve application problems, sush as communication with expert, describing domain problems, etc. Yes, The three parts are so general that nobody consider they are important. No one want to use c++ to develop web application.
 
 ```
 +++++++++++++++++
@@ -21,7 +21,7 @@ Every system is builded that must contains three parts. First, general language 
 
 ```
 
-I want to integrate this three parts in one programmging language. And it must spport export to other languages, such as python, ruby, php, perl, javascript, jvm , .net and llvm.
+I want to integrate this three parts in one programmging language. And it must spport export to other languages, such as python, ruby, php, perl, javascript, jvm, .net and llvm.
 
 Starting
 ========
